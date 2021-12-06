@@ -1,2 +1,4 @@
-# dop-team-dotfiles
+# dob-team-dotfiles
+
 DevOpsBudapest Team dotfiles
+
